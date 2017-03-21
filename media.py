@@ -1,6 +1,9 @@
 import webbrowser
 
 
+# define a Movie class, including "rating,title,storyline,
+# image url and youtube trailer url", plus one method
+# show_trailer to play movie.
 class Movie():
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
